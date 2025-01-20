@@ -1,7 +1,7 @@
 // plugins/firebaseConfig.ts
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
-
+// firebase anahtarı eklendi
 const firebaseConfig = {
   apiKey: "AIzaSyBTkEtKx0iKs91MHfzu7gX6lIn1zeuT91c",
   authDomain: "authentication-1bfc6.firebaseapp.com",
