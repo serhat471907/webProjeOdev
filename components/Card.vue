@@ -1,5 +1,4 @@
 <template>
-// pinia için gerekli bağlantılar eklendi
   <v-container>
     <v-row class="d-flex justify-between align-center" :style="{ padding: '20px' }">
       <!-- Ürünler Dizisini Döngüyle Göster -->
