@@ -30,4 +30,4 @@ declare module 'vue' {
     $isLoggedIn: boolean;
   }
 }
-
+// firebase için gerekli uyarlamalar yapıldı
