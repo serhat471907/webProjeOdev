@@ -7,7 +7,7 @@
         <Slider />
         <img src="public/parts/image.png" alt="" style="height: 330px;">
       </div>
-
+// componentler page olarak ayarlandı
       <Card />
       <Card />
       <Reklam />
